@@ -1,4 +1,4 @@
-<img src="D:\PROJETOS\DIO\Transferencia_Bancaria\ico.png" style="zoom:25%;" />
+<img src="https://github.com/beto-frs/Cadastro_Series/blob/master/ico.png" width="80"/>
 
 ## Criando um APP simples de cadastro de séries em .NET
 
